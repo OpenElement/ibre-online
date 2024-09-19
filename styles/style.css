@@ -1,0 +1,34 @@
+#stim1 {
+    position: fixed;
+    left: 20%;
+    top: 50%;
+    font-size: xx-large;
+    /* transform: translate(-50%, -50%); */
+}
+
+#stim2 {
+    position: fixed;
+    right: 20%;
+    top: 50%;
+    font-size: xx-large;
+    /* transform: translate(-50%, -50%); */
+}
+
+#stim3 {
+    position: fixed;
+    right: 50%;
+    top: 50%;
+    font-size: xx-large;
+    transform: translate(50%, -50%);
+}
+
+#prompt {
+    position: fixed;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+}
+
+#webgazerGazeDot {
+   display: none !important;
+}

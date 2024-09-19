@@ -1,0 +1,7 @@
+node_modules
+redirection.json
+
+.DS_Store
+.idea
+.jspsych-builder
+packaged

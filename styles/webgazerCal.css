@@ -1,0 +1,136 @@
+#next {
+    display: none;
+    position: absolute;
+    bottom: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: turquoise;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#jspsych-html-button-response-button-0 {
+    display: none;
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#box1 {
+    top: 50%;
+    left: 50%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#box2 {
+    top: 15%;
+    left: 15%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#box3 {
+    top: 15%;
+    right: 15%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#box4 {
+    bottom: 15%;
+    left: 15%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#box5 {
+    bottom: 15%;
+    right: 15%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#box6 {
+    top: 50%;
+    left: 25%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#box7 {
+    top: 50%;
+    right: 25%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#boxTwo1 {
+    top: 50%;
+    left: 50%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#boxTwo2 {
+    top: 15%;
+    left: 15%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#boxTwo3 {
+    top: 15%;
+    right: 15%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#boxTwo4 {
+    bottom: 15%;
+    left: 15%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#boxTwo5 {
+    bottom: 15%;
+    right: 15%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#boxTwo6 {
+    top: 50%;
+    left: 25%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
+
+#boxTwo7 {
+    top: 50%;
+    right: 25%;
+    background-color: rgb(255, 53, 53);
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+}
